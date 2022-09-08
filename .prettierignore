@@ -1,0 +1,4 @@
+# Set directories here to NOT run prettier on
+
+build
+node_modules
